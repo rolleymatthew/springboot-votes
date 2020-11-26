@@ -11,6 +11,8 @@ public class SpringbootVotesApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("--------------");
+
 	}
 
 }
